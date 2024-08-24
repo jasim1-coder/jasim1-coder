@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasim1-coder" alt="jasim1-coder" /></a> </p>
 
-- 🔭 I’m currently studying **computer science engineering**
+- 🔭 I’m recent graduate of 2024 **computer science engineering**
 
 - 🌱 I’m currently learning **100 Days of Code: The Complete Python Pro Bootcamp**
-
-- 👯 I’m looking to collaborate on **vehicle scrapping using ML**
 
 - 📫 How to reach me **tjasim786@gmail.com**
 
