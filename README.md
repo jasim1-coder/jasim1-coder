@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Jasim T</h1>
-<h3 align="center">As an ambitious Computer Science student, I aspire to carve a distinguished career as an AI/ML specialist. Focusing on expertise development, academic excellence, and collaborative impact, I aim to contribute substantively to the evolution of AI and ML technologies.</h3>
+<h3 align="center">Keen and results-driven individual with a strong interest in applying skills and problem-solving abilities to contribute to real-world 
+needs. Dedicated and aspiring software engineer with an objective of working in organization that provides opportunities for technical 
+and personal advancement.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasim1-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jasim1-coder" /> </p>
 
