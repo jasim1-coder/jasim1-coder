@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Jasim T</h1>
-<h3 align="center">Aspiring Software Engineer | MERN Stack Developer</h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Dot Net Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jasim1-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jasim1-coder" />
@@ -18,7 +18,7 @@
 ---
 
 - 🎓 **Recent Graduate** | B.Tech in Computer Science, 2024
-- 🌱 **Currently Learning**: React and MERN Stack Development
+- 🌱 **Currently Learning**:Full Stack Dot Net Developer
 - 📫 **Contact**: [tjasim786@gmail.com](mailto:tjasim786@gmail.com)
 
 ### Connect with Me:
