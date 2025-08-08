@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  A results-driven individual passionate about building impactful applications and solving real-world challenges. I’m focused on enhancing my MERN stack development skills and contributing to meaningful projects.
+  A results-driven individual passionate about building impactful applications and solving real-world challenges. I’m focused on enhancing my development skills and contributing to meaningful projects.
 </p>
 
 ---
