@@ -43,7 +43,7 @@ SOFTWARE ENGINEER • FULL STACK .NET DEVELOPER
 
 ### 04 — INTERFACE PORTS
 <p align="center">
-  <a href="https://linkedin.com/in/muhammed-jasim-t">
+  <a href="https://www.linkedin.com/in/muhd-jasim-t/">
     <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tjasim786@gmail.com">
