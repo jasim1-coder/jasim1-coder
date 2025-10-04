@@ -37,12 +37,18 @@ Check out my live portfolio : [My Portfolio](https://nice-ocean-03e4e3710.2.azur
 | **Other Skills** | JSON Server / Redux / React Router DOM / Formik / ADO.NET / Stored Procedures / Responsive Web Design |
 
 ---
-
 ### 03 — METRICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasim1-coder&show_icons=true&theme=transparent&hide_border=true" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasim1-coder&layout=compact&theme=transparent&hide_border=true" height="120"/>
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jasim1-coder&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="140"/>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasim1-coder&layout=compact&theme=transparent&hide_border=true" height="140"/>
+
+  <!-- Detailed Contribution Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasim1-coder&theme=transparent" height="180"/>
 </p>
+
 
 ---
 
