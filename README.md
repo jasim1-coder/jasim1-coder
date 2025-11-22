@@ -64,6 +64,10 @@ Check out my live portfolio : [My Portfolio](https://portfolio-jasim.vercel.app/
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muhammed_Jasim_T)
+
+
+
 <p align="center" style="font-size:12px; letter-spacing:1px; opacity:0.7;">
 © 2025 — MUHAMMED JASIM T — engineered for clarity
 </p>
