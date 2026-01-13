@@ -14,12 +14,6 @@ SOFTWARE ENGINEER • FULL STACK .NET DEVELOPER
 > functional, minimal, long-lasting.  
 > every line of code is a part in a larger mechanism.
 
----
-
-## Live Portfolio
-
-Check out my live portfolio : [My Portfolio](https://portfolio-jasim.vercel.app/)
-
 
 ---
 
