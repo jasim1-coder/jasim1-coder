@@ -1,67 +1,112 @@
-<!-- TE INSPIRED HEADER -->
-<h1 align="center" style="letter-spacing:8px; font-weight:900; font-size:38px;">
+<!-- PROFESSIONAL HEADER -->
+<h1 align="center">
 MUHAMMED JASIM T
 </h1>
-<p align="center" style="letter-spacing:3px; font-size:14px;">
+<p align="center">
 SOFTWARE ENGINEER • FULL STACK .NET DEVELOPER
 </p>
 
-
----
-
-### 01 — OVERVIEW
-> building software like crafting instruments:  
-> functional, minimal, long-lasting.  
-> every line of code is a part in a larger mechanism.
-
-
----
-
-
-
-### 02 — TECHNICAL DATA
-| CATEGORY       | COMPONENTS |
-|----------------|------------|
-| **Frontend**   | HTML5 / CSS3 / JavaScript / Bootstrap / Tailwind CSS / React |
-| **Backend**    | .NET / C# / Entity Framework Core / .NET MVC / REST API Development |
-| **Database**   | Microsoft SQL Server / MySQL / PostgreSQL |
-| **Cloud**      | Microsoft Azure Fundamentals |
-| **Tools**      | Git / GitHub / Visual Studio / VS Code / Azure / Postman |
-| **Concepts**   | OOP / REST APIs / JWT Authentication / MVC Architecture / LINQ / Entity Framework |
-| **Other Skills** | JSON Server / Redux / React Router DOM / Formik / ADO.NET / Stored Procedures / Responsive Web Design |
-
----
-### 03 — METRICS
-<p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jasim1-coder&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="140"/>
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasim1-coder&layout=compact&theme=transparent&hide_border=true" height="140"/>
-
-  <!-- Detailed Contribution Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasim1-coder&theme=transparent" height="180"/>
-</p>
-
-
----
-
-### 04 — INTERFACE PORTS
 <p align="center">
   <a href="https://www.linkedin.com/in/muhd-jasim-t/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tjasim786@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Muhammed_Jasim_T">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Muhammed_Jasim_T)
+### 👨‍💻 About Me
+
+Backend-focused .NET developer with expertise in building scalable web applications using Clean Architecture and Domain-Driven Design principles. I focus on writing maintainable, testable code that solves real business problems.
+
+**Currently working on:**
+- Enterprise-level ASP.NET Core APIs
+- Clean Architecture implementations
+- Domain-Driven Design patterns
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend Development**
+```
+.NET Core/ASP.NET Core • C# • Entity Framework Core • REST APIs
+LINQ • ADO.NET • JWT Authentication • Stored Procedures
+```
+
+**Frontend Development**
+```
+React • JavaScript • HTML5 • CSS3
+Bootstrap • Tailwind CSS • Redux • React Router
+```
+
+**Databases**
+```
+Microsoft SQL Server • PostgreSQL • MySQL
+```
+
+**Tools & Platforms**
+```
+Git/GitHub • Visual Studio • VS Code • Postman
+Azure (Fundamentals) • Docker (Learning)
+```
+
+**Architecture & Patterns**
+```
+Clean Architecture • Domain-Driven Design • MVC • Repository Pattern
+Dependency Injection • SOLID Principles
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasim1-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasim1-coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasim1-coder&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🎯 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Muhammed_Jasim_T?theme=dark&font=Noto%20Sans" />
+</p>
+
+---
 
 
+### 📈 Experience Highlights
 
-<p align="center" style="font-size:12px; letter-spacing:1px; opacity:0.7;">
-© 2025 — MUHAMMED JASIM T — engineered for clarity
+- ✅ Building RESTful APIs with ASP.NET Core
+- ✅ Implementing Clean Architecture in production code
+- ✅ Database design and optimization with EF Core
+- ✅ Frontend development with React and modern JavaScript
+- ✅ Version control and collaborative development with Git
+
+---
+
+### 📫 Get In Touch
+
+I'm open to discussing:
+- Backend development opportunities
+- .NET architecture and best practices
+- Clean code and design patterns
+
+**Reach out:** [tjasim786@gmail.com](mailto:tjasim786@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhd-jasim-t/)
+
+---
+
+<p align="center">
+<sub>Building software with clarity and purpose</sub>
 </p>
