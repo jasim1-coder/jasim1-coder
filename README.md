@@ -66,10 +66,11 @@ Dependency Injection • SOLID Principles
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasim1-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasim1-coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jasim1-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jasim1-coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasim1-coder&theme=tokyonight&hide_border=true" />
