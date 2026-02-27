@@ -41,7 +41,7 @@ LINQ • ADO.NET • JWT Authentication • Stored Procedures
 
 **Frontend Development**
 ```
-React • JavaScript • HTML5 • CSS3
+React • JavaScript • TypeScript • HTML5 • CSS3
 Bootstrap • Tailwind CSS • Redux • React Router
 ```
 
